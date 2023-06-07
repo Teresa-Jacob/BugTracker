@@ -1,0 +1,41 @@
+body {
+   
+    margin-left: 0%;
+    padding: 0%;
+    
+    
+  }
+  
+ .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin-left: 0%;
+    padding-left: 0%;
+  }
+  .card {
+    width: 100px;
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 0%;
+    padding-left: 0%;
+    
+  }
+  .form-group {
+    width: 250px;
+    margin-bottom: 20px;
+  }
+  
+  .btn-primary {
+    width: 250px;
+  }
+  
+  .error{
+    color: red;
+    margin-bottom: 10px;
+  }
